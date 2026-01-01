@@ -20,8 +20,7 @@ Features:
 
 Suggested structure:
 
-.
-├── spam_detector.py
+├── spam_detector.py 
 ├── emails_500.csv          # training data (example)
 └── spam_model.pkl          # created after training
 
